@@ -7,7 +7,7 @@ const init = () => {
   $form.addEventListener("submit", (event) => {
     event.preventDefault();
 
-    jsConfetti.addConfetti({ emojis: ["🐶", "🦊", "🐰", "🐻", "🐼", "🐻‍❄️"] });
+    jsConfetti.addConfetti({ emojis: ["🐶", "🦊", "🐰", "🐻", "🐼", "🐻‍❄️", "🐸"] });
   });
 }
 
